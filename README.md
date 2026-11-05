@@ -24,7 +24,7 @@ Hi, I’m **Jayesh Pithadiya**, a **Jr. Backend Developer** focused on building 
 - 🔹 Authentication & Authorization  
 - 🔹 Production-Ready Backend Systems  
 
-💼 **Jr. Backend Developer at Paraacrypto**  
+💼 **Jr. Backend Developer at SoftWeirdo Solutions**  
 📍 **Vadodara, India**
 
 ---
